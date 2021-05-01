@@ -1,0 +1,10 @@
+<person>
+    <firstName>Tian</firstName>
+    <lastName>Song</lastName>
+    <address>
+        <streetAddr>中关村南大街五号</streetAddr>
+        <city>北京市</city>
+        <zipcode>100081</zipcode>
+    </address>
+    <prof>Computer system</prof><prof>Security</prof>
+</person>
